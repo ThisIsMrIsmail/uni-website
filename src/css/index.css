@@ -1,3 +1,24 @@
 nav {
     background-color: #4B75BE;
 }
+
+.right-navbar {
+    background-color: #AECDD6;
+    padding: 0;
+}
+
+footer {
+    background-color: #4B75BE;
+}
+
+.bottom-bar {
+    height: 45px;
+    background-color: #224f9c;
+}
+
+.middle-bottom-bar {
+    height: 45px;
+    width: 600px;
+    margin: auto;
+    background-color: #aebdda;
+}
